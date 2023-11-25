@@ -1,0 +1,15 @@
+#summary Howtos, examples and docs for RAFT analyzer development.
+
+= RAFT Analyzer Development =
+
+Developing a new analyzer for RAFT is easy!  You will need to be able to read and understand Python at a basic level.  Try this [http://docs.python.org/tutorial/ Python tutorial] if you need to brush up on your Python fundamentals.
+
+If all you need is some quick and dirty analysis, AnalyzerBasics should be enough for you to get started.
+
+
+  * [AnalyzerBasics]: Developing your first analyzer from the template
+  * [AdvancedAnalyzers]: Using more advanced analysis features
+  * [CustomResults]: Overriding the default reporting to generate custom results
+
+
+
